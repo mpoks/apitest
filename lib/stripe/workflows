@@ -1,0 +1,7 @@
+module Stripe
+  # The Workflows namespace contains common reusable functionality using Stripe apis
+  # and can be used by tests
+  module Workflows
+
+  end
+end

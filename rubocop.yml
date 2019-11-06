@@ -1,0 +1,16 @@
+Metrics/BlockLength:
+  Exclude:
+    - "spec/**/*.rb"
+
+Style/Documentation:
+  Exclude:
+    - 'spec/**/*'
+
+Metrics/LineLength:
+  Max: 100
+
+Style/StringLiterals:
+  EnforcedStyle: single_quotes
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented_relative_to_receiver

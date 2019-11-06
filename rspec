@@ -1,0 +1,9 @@
+-I lib
+--require './spec/spec_helper'
+--tty
+--color
+--format documentation
+--format RspecJunitFormatter
+--out tmp/test-results/rspec/rspec.xml
+--format html
+--out tmp/test-results/rspec/rspec.html
