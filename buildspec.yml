@@ -6,7 +6,7 @@ phases:
       ruby: 2.6
     commands:
       # Install Ruby dependencies from the Gemfile.
-      - bundle  install
+      - bundle install --path vendor/bundle
 
   build:
     commands:
