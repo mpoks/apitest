@@ -2,9 +2,11 @@ version: 0.2
 
 phases:
   install:
+    runtime-versions:
+      ruby: 2.6
     commands:
       # Install Ruby dependencies from the Gemfile.
-      - bundle install
+      - bundle  install
 
   build:
     commands:
