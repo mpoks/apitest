@@ -11,4 +11,4 @@ phases:
   build:
     commands:
       # Run the tests using RSpec.
-      - rspec
+      - bundle exec rspec spec/
