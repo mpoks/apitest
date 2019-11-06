@@ -1,4 +1,4 @@
-![Build Status](https://codebuild.us-east-1.amazon.com/badges?uuid=...&branch=master)
+![Build Status](https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiTGlRQjFRZFBaclBMNktSRHordVlmTkNNb1VtYitqVVgxU292WWlmbmREaXZUWEJXdEk1ZVFLeU5SQU1iejJ4QzVDQjJ6YzVsZTZyUFRqR1lxTjVkanlrPSIsIml2UGFyYW1ldGVyU3BlYyI6Ild4L3FsTkFGVld3TVlzRWoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 # apitest
 Api tests using faraday
